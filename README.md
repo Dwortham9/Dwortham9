@@ -13,11 +13,11 @@ Here are some of the programs I enjoyed working on during my education.
 
 | Name                                        | Link         |
 |-----------------------------------------------|----------------------------|
-| AES          | <a href="python-scripts/AES">Lab</a>|
-| RSA          | <a href="python-scripts/rsa.py">Lab</a>|
-| Caesar Cipher          | <a href="python-scripts/caesar_cipher.py">Lab</a>|
-| Piggy Bank          | <a href="java-scripts/PiggyBank.py">Lab</a>|
-| TreeMap Demo          | <a href="java-scripts/treemap_demo">Lab</a>||
+| AES          | <a href="https://github.com/Dwortham9/My-Code-Library/tree/d285915300026bdde1baab8221f8f54b055770b5/python-scripts/AES">Lab</a>|
+| RSA          | <a href="https://github.com/Dwortham9/My-Code-Library/blob/d285915300026bdde1baab8221f8f54b055770b5/python-scripts/rsa.py">Lab</a>|
+| Caesar Cipher          | <a href="https://github.com/Dwortham9/My-Code-Library/blob/d285915300026bdde1baab8221f8f54b055770b5/python-scripts/caesar_cipher.py">Lab</a>|
+| Piggy Bank          | <a href="https://github.com/Dwortham9/My-Code-Library/tree/d285915300026bdde1baab8221f8f54b055770b5/java-scripts/PiggyBank">Lab</a>|
+| TreeMap Demo          | <a href="https://github.com/Dwortham9/My-Code-Library/tree/d285915300026bdde1baab8221f8f54b055770b5/java-scripts/treemap_demo">Lab</a>||
 
 To view more of my script, click the "View Programs" link below.
 
